@@ -1,0 +1,22 @@
+.bodygap {
+  padding-top: 80px;
+}
+
+.sidebar {
+  z-index: 99999999;
+}
+
+.btn-xsm-card {
+  font-size: 12px;
+  padding-top: 1px;
+  padding-left: 5px;
+  padding-bottom: 1px;
+  padding-right: 5px;
+  border-radius: 20px;
+}
+
+.btn-card-primary {
+  background-color: #EBF4FF;
+  color: #0070FF;
+}
+
